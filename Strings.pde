@@ -1,0 +1,10 @@
+String title = "Pazi krivulja!";
+String player = "Igrač ";
+String chooseColor = "Odaberi boju: ";
+String name = "Ime: ";
+String left = "Lijevo: ";
+String right = "Desno: ";
+String col = "Boja:";
+String rule1 = "Pravila: Upravljati svojom zmijicom i izbjegavati tragove koje ostavljaju ostale zmijice.";
+String rule2 = "Pobjednik je igrač koji duže preživi. Prvi igrač do 30 bodova pobjeđuje.";
+String chooseNumOfPlayers = "Odaberite broj igrača: ";
